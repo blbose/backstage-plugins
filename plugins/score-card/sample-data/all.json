@@ -11,8 +11,8 @@
     "areaScores": [
       {
         "title": "Code",
-        "scorePercent": 100,
-        "scoreLabel": "Green",
+        "scorePercent": 25,
+        "scoreLabel": "Red",
         "scoreSuccess": "success"
       },
       {
