@@ -13,7 +13,7 @@
         "title": "Code",
         "scorePercent": 25,
         "scoreLabel": "Red",
-        "scoreSuccess": "success"
+        "scoreSuccess": "failure"
       },
       {
         "title": "Documentation",
