@@ -1,14 +1,13 @@
 [
   {
     "entityRef": {
-      "kind": "api",
+      "kind": "API",
       "name": "Cc Dotnet Database",
       "owner" : "ABC"
     },
     "scorePercent": 50,
-    "scoreLabel": "Yellow",
-    "scoringReviewDate": "2022-01-01T08:00:00Z",
-    "scoreSuccess": "almost-failure",
+    "scoreLabel": "Yellow"
+    "scoreSuccess": "almost-success",
     "areaScores": [
       {
         "title": "Coverage",
