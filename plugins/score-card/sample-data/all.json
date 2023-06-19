@@ -24,51 +24,51 @@
       },
       {
         "title": "Fortify",
-        "scorePercent": 100,
+        "scorePercent": 0,
         "scoreLabel": "Green",
         "scoreSuccess": "success"
       },
       {
         "title": "Tech Debt",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 26,
+        "scoreLabel": "26",
+        "scoreSuccess": "partial"
       },
       {
         "title": "Secrets",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 2,
+        "scoreLabel": "2",
+        "scoreSuccess": "success"
       },
       {
         "title": "Maintain",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 90,
+        "scoreLabel": "80",
+        "scoreSuccess": "success"
       },
       {
         "title": "Cyclomatic",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 33,
+        "scoreLabel": "33",
+        "scoreSuccess": "success"
       },
       {
         "title": "Coupling",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 24,
+        "scoreLabel": "24",
+        "scoreSuccess": "partial"
       },
       {
         "title": "Inheritance",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 3,
+        "scoreLabel": "3",
+        "scoreSuccess": "success"
       },
       {
         "title": "Source Lines",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 80,
+        "scoreLabel": "2087",
+        "scoreSuccess": "success"
       }
     ]
   }
