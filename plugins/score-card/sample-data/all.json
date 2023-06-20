@@ -6,7 +6,7 @@
       "owner": "ABC"
     },
     "scorePercent": 50,
-    "scoreLabel": "Yellow",
+    "scoreLabel": "78",
     "scoreSuccess": "almost-success",
     "areaScores": [
       {
@@ -24,7 +24,7 @@
       {
         "title": "Fortify",
         "scorePercent": 0,
-        "scoreLabel": "Green",
+        "scoreLabel": "0",
         "scoreSuccess": "success"
       },
       {
@@ -73,8 +73,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "audio-playback"
+      "kind": "System",
+      "name": "Config KeyValuePair"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
@@ -306,6 +306,24 @@
         ]
       },
       {
+        "title": "Tech Debt",
+        "scorePercent": 11,
+        "scoreLabel": "11",
+        "scoreSuccess": "almost-success"
+      },
+      {
+        "title": "Secrets",
+        "scorePercent": 3,
+        "scoreLabel": "3",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Maintain",
+        "scorePercent": 90,
+        "scoreLabel": "78",
+        "scoreSuccess": "success"
+      },
+      {
         "id": 4333,
         "title": "Cyclomatic",
         "scorePercent": 25,
@@ -376,8 +394,141 @@
             "details": "At least one endpoint accessible without SSL protection"
           }
         ]
+      },
+      {
+        "title": "Inheritance",
+        "scorePercent": 3,
+        "scoreLabel": "2",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Source Lines",
+        "scorePercent": 80,
+        "scoreLabel": "1086",
+        "scoreSuccess": "success"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "API",
+      "name": "Licensing",
+      "owner": "ABC"
+    },
+    "scorePercent": 50,
+    "scoreLabel": "56",
+    "scoreSuccess": "almost-success",
+    "areaScores": [
+      {
+        "title": "Coverage",
+        "scorePercent": 56,
+        "scoreLabel": "56",
+        "scoreSuccess": "almost-failure"
+      },
+      {
+        "title": "Mutation",
+        "scorePercent": 6,
+        "scoreLabel": "73",
+        "scoreSuccess": "failure"
+      },
+      {
+        "title": "Fortify",
+        "scorePercent": 0,
+        "scoreLabel": "4",
+        "scoreSuccess": "failure"
+      },
+      {
+        "title": "Tech Debt",
+        "scorePercent": 26,
+        "scoreLabel": "9",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Secrets",
+        "scorePercent": 2,
+        "scoreLabel": "4",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Maintain",
+        "scorePercent": 90,
+        "scoreLabel": "86",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Cyclomatic",
+        "scorePercent": 33,
+        "scoreLabel": "6",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Coupling",
+        "scorePercent": 24,
+        "scoreLabel": "18",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Inheritance",
+        "scorePercent": 3,
+        "scoreLabel": "1",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Source Lines",
+        "scorePercent": 80,
+        "scoreLabel": "1284",
+        "scoreSuccess": "success"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "API",
+      "name": "Licensing Fork",
+      "owner": "ABC"
+    },
+    "scoreLabel": "N/A",
+    "areaScores": [
+      {
+        "title": "Coverage",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Mutation",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Fortify",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Tech Debt",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Secrets",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Maintain",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Cyclomatic",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Coupling",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Inheritance",
+        "scoreLabel": "N/A"
+      },
+      {
+        "title": "Source Lines",
+        "scoreLabel": "N/A"
       }
     ]
   }
 ]
-
