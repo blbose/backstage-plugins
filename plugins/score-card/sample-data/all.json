@@ -71,7 +71,7 @@
 	},
 	{
 		"entityRef": {
-			"kind": "System",
+			"kind": "system",
 			"name": "Config KeyValuePair",
       			"namespace": "default"
 		},
