@@ -601,5 +601,218 @@
 				"scoreSuccess": "success"
 			}
 		]
+	},
+	{
+		"entityRef": {
+			"kind": "API",
+			"name": "System Reporter",
+			"owner": "ABC"
+		},
+		"scorePercent": 84,
+		"scoreLabel": "68",
+		"scoreSuccess": "alomst-success",
+		"areaScores": [{
+				"title": "Coverage",
+				"scorePercent": 84,
+				"scoreLabel": "2",
+				"scoreSuccess": "failure"
+			},
+			{
+				"title": "Mutation",
+				"scorePercent": 50,
+				"scoreLabel": "0",
+				"scoreSuccess": ""
+			},
+			{
+				"title": "Fortify",
+				"scorePercent": 0,
+				"scoreLabel": "2",
+				"scoreSuccess": "failure"
+			},
+			{
+				"title": "Tech Debt",
+				"scorePercent": 26,
+				"scoreLabel": "9",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Secrets",
+				"scorePercent": 2,
+				"scoreLabel": "2",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Maintain",
+				"scorePercent": 90,
+				"scoreLabel": "81",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Cyclomatic",
+				"scorePercent": 33,
+				"scoreLabel": "42",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Coupling",
+				"scorePercent": 24,
+				"scoreLabel": "12",
+				"scoreSuccess": "partial"
+			},
+			{
+				"title": "Inheritance",
+				"scorePercent": 3,
+				"scoreLabel": "2",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Source Lines",
+				"scorePercent": 80,
+				"scoreLabel": "2985",
+				"scoreSuccess": "success"
+			}
+		]
+	},
+	{
+		"entityRef": {
+			"kind": "API",
+			"name": "Test Utils",
+			"owner": "ABC"
+		},
+		"scorePercent": 84,
+		"scoreLabel": "73",
+		"scoreSuccess": "success",
+		"areaScores": [{
+				"title": "Coverage",
+				"scorePercent": 84,
+				"scoreLabel": "38",
+				"scoreSuccess": "almost-failure"
+			},
+			{
+				"title": "Mutation",
+				"scorePercent": 50,
+				"scoreLabel": "33",
+				"scoreSuccess": "almost-failure"
+			},
+			{
+				"title": "Fortify",
+				"scorePercent": 0,
+				"scoreLabel": "0",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Tech Debt",
+				"scorePercent": 26,
+				"scoreLabel": "38",
+				"scoreSuccess": "partial"
+			},
+			{
+				"title": "Secrets",
+				"scorePercent": 2,
+				"scoreLabel": "10",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Maintain",
+				"scorePercent": 90,
+				"scoreLabel": "77",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Cyclomatic",
+				"scorePercent": 33,
+				"scoreLabel": "8",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Coupling",
+				"scorePercent": 24,
+				"scoreLabel": "23",
+				"scoreSuccess": "partial"
+			},
+			{
+				"title": "Inheritance",
+				"scorePercent": 3,
+				"scoreLabel": "5",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Source Lines",
+				"scorePercent": 80,
+				"scoreLabel": "6479",
+				"scoreSuccess": "success"
+			}
+		]
+	},
+	{
+		"entityRef": {
+			"kind": "API",
+			"name": "Webhookrouter",
+			"owner": "ABC"
+		},
+		"scorePercent": 84,
+		"scoreLabel": "82",
+		"scoreSuccess": "success",
+		"areaScores": [{
+				"title": "Coverage",
+				"scorePercent": 84,
+				"scoreLabel": "0",
+				"scoreSuccess": "failure"
+			},
+			{
+				"title": "Mutation",
+				"scorePercent": 50,
+				"scoreLabel": "0",
+				"scoreSuccess": ""
+			},
+			{
+				"title": "Fortify",
+				"scorePercent": 0,
+				"scoreLabel": "16",
+				"scoreSuccess": "failure"
+			},
+			{
+				"title": "Tech Debt",
+				"scorePercent": 26,
+				"scoreLabel": "6",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Secrets",
+				"scorePercent": 2,
+				"scoreLabel": "5",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Maintain",
+				"scorePercent": 90,
+				"scoreLabel": "78",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Cyclomatic",
+				"scorePercent": 33,
+				"scoreLabel": "25",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Coupling",
+				"scorePercent": 24,
+				"scoreLabel": "43",
+				"scoreSuccess": "almost-failure"
+			},
+			{
+				"title": "Inheritance",
+				"scorePercent": 3,
+				"scoreLabel": "3",
+				"scoreSuccess": "success"
+			},
+			{
+				"title": "Source Lines",
+				"scorePercent": 80,
+				"scoreLabel": "753",
+				"scoreSuccess": "success"
+			}
+		]
 	}
 ]
