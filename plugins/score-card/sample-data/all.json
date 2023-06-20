@@ -72,7 +72,7 @@
 	{
 		"entityRef": {
 			"kind": "system",
-			"name": "Config KeyValuePair",
+			"name": "ConfigKeyValuePair",
       			"namespace": "default"
 		},
 		"generatedDateTimeUtc": "2021-07-22 10:00",
