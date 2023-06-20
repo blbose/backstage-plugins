@@ -6,7 +6,7 @@
       "owner": "ABC"
     },
     "scorePercent": 50,
-    "scoreLabel": "Yellow"
+    "scoreLabel": "Yellow",
     "scoreSuccess": "almost-success",
     "areaScores": [
       {
