@@ -72,7 +72,8 @@
 	{
 		"entityRef": {
 			"kind": "System",
-			"name": "Config KeyValuePair"
+			"name": "Config KeyValuePair",
+      			"namespace": "default"
 		},
 		"generatedDateTimeUtc": "2021-07-22 10:00",
 		"scorePercent": 57,
@@ -404,7 +405,8 @@
 		"entityRef": {
 			"kind": "API",
 			"name": "Licensing",
-			"owner": "ABC"
+			"owner": "ABC",
+      			"namespace": "default"
 		},
 		"scorePercent": 50,
 		"scoreLabel": "56",
